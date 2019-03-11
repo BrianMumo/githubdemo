@@ -1,0 +1,18 @@
+Hi,
+My name is Brian Mumo. I am born again and Jesus Christ is my saviour and light.
+Today, I am learning about git and github.
+
+The following are the commands I have learnt so far:
+git config --global user.name "firstname lastname"
+git config --global user.email "----@gmail.com"
+git config color.ui 
+git status
+git clone https://github.com/
+git post origin master
+git ls
+git config --list
+.
+.
+.
+.
+And am thirsty for more commands
